@@ -1,7 +1,15 @@
 .form-group{
-    margin-right: 1000px;
+    margin-right: 1100px;
 }
 #div1{
 
     height: 200px;
+}
+.previewForm{
+    width: 600px;
+    border: 1px solid #aaaaaa;
+    border-radius: 0.1cm;
+    margin-left: 400px;
+    background-color: #aaaaaa;
+    
 }

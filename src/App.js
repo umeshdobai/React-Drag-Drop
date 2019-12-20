@@ -42,6 +42,7 @@ class App extends Component {
                   {key: "rating", label: "Rating", type: "number", props: {min: 0,max: 5},value:""},
                   {key: "age", label: "Age", type: "number",value:""},
                   {key: "qualification", label: "Qualification", type:"text",value:""},
+                  {key: "submit", type: "submit"}
                 ]}
                 onSubmit = { (model) => {this.onSubmit(model)}}
             />
